@@ -5,18 +5,11 @@
 <img align="right" width="100" height="100" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 <img align="right" width="100" height="100" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
-
-
-
-### 🌱 I’m currently learning new technologies
-
-[![](https://img.shields.io/badge/-PlatziMaster-%231DA1F?style=flat-square&logo=platzi&logoColor=ffffff)](https://platzi.com/p/WalterXZ/)
-
-
 ### 📫 Connect with me:
 
 [![](https://img.shields.io/badge/-Walter%20Díaz-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walterxz/)
 [![](https://img.shields.io/badge/-Webpage-%231DA1F?style=flat-square&logo=google-earth&logoColor=ffffff)](https://unocero.dev)
+[![](https://img.shields.io/badge/-PlatziMaster-%231DA1F?style=flat-square&logo=platzi&logoColor=ffffff)](https://platzi.com/p/WalterXZ/)
 
 <!-- 
 [![](https://img.shields.io/badge/-Webpage-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://unocero.dev) -->
